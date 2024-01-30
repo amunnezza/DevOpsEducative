@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "10ac0aea1197c596",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ecf4ebff3f82d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93dfc49974fcb540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-IntroMicroservice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38baff751ad5c016",
+    "type": "split",
+    "children": [
+      {
+        "id": "d762e4fdcd1e42da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a49030a683f07e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b4ed8dc946dda56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da59cd681ac744e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5af4d38816e68218",
+    "type": "split",
+    "children": [
+      {
+        "id": "16af13379769811b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6927e25c5a125312",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001-IntroMicroservice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32a0d5599051fd38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001-IntroMicroservice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a6d4a73c711aaad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe86119b144f6ae2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001-IntroMicroservice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "93dfc49974fcb540",
+  "lastOpenFiles": [
+    "images/002.jpg",
+    "Senza nome 1.canvas",
+    "Senza nome.canvas",
+    "2024-01-31.md",
+    "images/001.jpg",
+    "001-IntroMicroservice.md",
+    "images/001.jpg.crdownload",
+    "images",
+    "Nuova cartella"
+  ]
+}
